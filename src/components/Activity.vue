@@ -4,12 +4,12 @@ import {ArrowRightIcon} from '@heroicons/vue/outline';
 const activities = [
 	{
 		title: 'Web開發挑戰營',
-		description: '讓你探索自己的網頁技術，並學習如何撰寫網頁。',
+		description: '在2022暑假參加了「A++程式設計」所舉辦的營隊，課程內容主要是在教我們如何設計、開發一個自己的網頁，透過這次的課程，又更加深入的了解程式，學習到很多關於程式語言以及技術。',
 		url: ''
 	},
 	{
-		title: '模擬聯合國',
-		description: '模聯合國是一個模擬聯合國的活動，讓你學習如何模擬聯合國。'
+		title: 'WebStorm',
+		description: '這次營隊寫程式主要使用的工具'
 	}
 ]
 const makeClass = (i) => (

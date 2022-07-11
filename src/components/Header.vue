@@ -9,7 +9,7 @@ import {ArrowRightIcon, ChevronDoubleDownIcon} from '@heroicons/vue/solid'
 				想選擇資工系的高中生
 			</h1>
 			<p class="text-lg text-zinc-400 font-light pt-8">
-
+         【一位對資工感興趣的女孩】
 			</p>
 			<a
 				href="#contact"

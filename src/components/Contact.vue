@@ -39,7 +39,7 @@ const submit = () => {
 					<div>
 						<PhoneIcon class="w-6 h-6"/>
 					</div>
-					<p>0905267475</p>
+					<p>0905xxxxxx</p>
 				</div>
 				<div class="flex items-center gap-4 mt-3">
 					<div>
@@ -50,7 +50,7 @@ const submit = () => {
 			</div>
 		</div>
 		<div class="bg-gray-200 h-full lg:w-3/5 p-3 rounded-t-xl md:rounded-xl">
-			<div class="bg-white py-4 px-8 rounded-xl">
+			<div class="bg-zinc-300 py-4 px-8 rounded-xl">
 				<h1 class="text-4xl text-gray-800 font-extrabold mb-6">聯絡表單</h1>
 				<form class="block w-full flex flex-col items-start" @submit.prevent="submit">
 					<label
@@ -82,7 +82,7 @@ const submit = () => {
 					></textarea>
 
 					<button
-						class="self-center bg-gray-800 hover:bg-indigo-600 rounded text-white px-8 py-3 text-sm">
+						class="self-center bg-white hover:bg-indigo-600 rounded text-black px-8 py-3 text-sm">
 						送出
 					</button>
 				</form>
